@@ -1,5 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+Esto es el lab de Git.
+
 # Lab | Resolving Git Conflicts
 
 ## Introduction
