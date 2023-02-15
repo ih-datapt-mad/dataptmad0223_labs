@@ -1,5 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+ESTO ES EL PRIMER LAB 
+
 # Lab | Resolving Git Conflicts
 
 ## Introduction
